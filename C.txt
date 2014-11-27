@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fefefefefefef C
+=======
+fileeee: C
+>>>>>>> 68b59e18e5943450924aebbc08087421d5b305dd
